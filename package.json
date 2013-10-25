@@ -1,0 +1,36 @@
+{
+  "name": "lie-any",
+  "version": "0.1.0",
+  "description": "any lie will do",
+  "main": "lib/any.js",
+  "scripts": {
+    "test": "./node_modules/istanbul/lib/cli.js test ./node_modules/mocha/bin/_mocha test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/calvinmetcalf/lie-any.git"
+  },
+  "keywords": [
+    "lie",
+    "promise",
+    "async"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/calvinmetcalf/lie-any/issues"
+  },
+  "devDependencies": {
+    "mocha-as-promised": "~1.4.0",
+    "chai-as-promised": "~4.0.0",
+    "chai": "~1.8.1",
+    "mocha": "~1.13.0",
+    "istanbul": "~0.1.44",
+    "lie-resolve": "~0.1.0"
+  },
+  "dependencies": {
+    "lie-cast": "~0.1.1",
+    "lie-quickmap": "~0.1.2",
+    "lie-all": "~0.1.2",
+    "lie": "~2.0.7"
+  }
+}

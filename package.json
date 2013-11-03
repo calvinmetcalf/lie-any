@@ -1,6 +1,6 @@
 {
   "name": "lie-any",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "any lie will do",
   "main": "lib/any.js",
   "scripts": {

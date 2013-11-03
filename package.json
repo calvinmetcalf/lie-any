@@ -1,6 +1,6 @@
 {
   "name": "lie-any",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "any lie will do",
   "main": "lib/any.js",
   "scripts": {
@@ -31,6 +31,6 @@
     "lie-cast": "~0.1.1",
     "lie-quickmap": "~0.1.2",
     "lie-all": "~0.1.2",
-    "lie": "~2.0.7"
+    "lie": "~2.3.0"
   }
 }
